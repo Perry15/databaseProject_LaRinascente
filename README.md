@@ -1,5 +1,6 @@
 # databaseProject_LaRinascente
-Design and implementation report of a database example
+Design and implementation report of a database example.
+This project was carried out by Gardin Samuele and Giovanni Peron as a project for the Database course at the University of Padua.
 
 ## Breve descrizione
 La repository contiene una relazione del progetto e un file con lo script in SQL del database realizzato.
